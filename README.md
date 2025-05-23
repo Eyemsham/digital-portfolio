@@ -1,109 +1,117 @@
 # 💼 Digital Portfolio – Work Readiness Training
 
-Welcome to my digital portfolio for the Work Readiness Training program. This portfolio includes evidence and STAR reflections in the areas of career counseling, skills and interests, personality assessment, and CV development and submission.
+Welcome to my digital portfolio for the Work Readiness Training program. I am currently a 3rd-year IT student at Cape Peninsula University of Technology (CPUT), specializing in web development and UI/UX design. This portfolio includes evidence and STAR reflections for career counselling, skills and interests, personality assessment, and my CV.
 
 ---
 
 ## 🔍 Career Counselling
 
 ### 📄 Evidence
-I attended a career counselling session on **15 May 2025** with the Career Development Office at CPUT. The session helped me identify career paths related to web development and UX/UI design.
+On **15 May 2025**, I attended a career counselling session through CPUT’s Career Development Services. We discussed potential career paths in tech and how my web development skills align with roles like **front-end developer** and **UI/UX designer**.
 
 ### ✨ Reflection (STAR Technique)
 
-**S**: I was unsure about which direction to take in my web development career.
-
-**T**: I needed to clarify my professional goals to plan my next steps after graduation.
-
-**A**: I booked a session with a career counselor, discussed my interests and academic background, and completed a guided self-assessment.
-
-**R**: I left with clarity on roles like front-end developer and UX designer, and I was advised to strengthen my portfolio with practical projects and internships.
+**S**: I was unsure about the specific direction I wanted to take within web development.  
+**T**: I needed professional guidance to define my career goals and action steps.  
+**A**: I scheduled a session, completed a career interest assessment, and discussed my projects and strengths with the advisor.  
+**R**: I gained clarity on my career goals and received tailored advice on building a strong portfolio and gaining real-world experience through internships.
 
 ---
 
 ## 🧠 Skills and Interests
 
 ### 📄 Evidence
-My key skills and interests include:
+I specialize in web technologies and design, including:
+
 - HTML, CSS, JavaScript
-- React and Bootstrap
-- UI/UX Design
-- Creative problem-solving
-- Collaboration and communication
+- React & Bootstrap
+- Responsive Web Design
+- UI/UX tools like Figma
+- SVG animation & design
+- Digital branding & SEO
 
 ### ✨ Reflection (STAR Technique)
 
-**S**: During group projects at CPUT, I often took the lead in the design and front-end coding.
-
-**T**: I needed to apply my technical skills while keeping team coordination and deadlines in mind.
-
-**A**: I used my knowledge of React and design tools to build responsive, user-friendly components, and I facilitated team meetings.
-
-**R**: The project was completed ahead of schedule, and we received positive feedback for functionality and aesthetics.
+**S**: I was tasked with creating a professional portfolio website and interactive SVG animations.  
+**T**: I needed to use my technical and creative skills to complete the assignments with high quality.  
+**A**: I applied my knowledge of HTML, CSS, and JavaScript frameworks, and used UI/UX principles to guide my designs.  
+**R**: My work received strong feedback for creativity, structure, and responsiveness, reinforcing my passion for front-end design and development.
 
 ---
 
 ## 🧬 Personality Assessment
 
 ### 📄 Evidence
-I completed the **16Personalities** assessment and my result was **INFJ – Advocate**. This aligns with my passion for meaningful, user-centered design and thoughtful problem-solving.
+I completed the **16Personalities** test and my result was **INFJ – Advocate**. This profile aligns with my strengths in thoughtful design, creativity, empathy, and working on meaningful, user-centered projects.
 
 ### ✨ Reflection (STAR Technique)
 
-**S**: I was curious about how my personality influences my learning and work style.
-
-**T**: I wanted to understand myself better to improve teamwork and career choices.
-
-**A**: I took a personality assessment and reflected on the results with a mentor.
-
-**R**: I learned that I thrive in roles that combine creativity with empathy, which supports my goal to become a UX designer or front-end developer.
+**S**: I was curious about how my personality affects my work habits and collaboration style.  
+**T**: I wanted to understand how to use my natural strengths effectively in teams and projects.  
+**A**: I completed a personality test and compared the results with my experiences in team-based assignments.  
+**R**: The test confirmed that I am a reflective and purpose-driven person who thrives in creative, collaborative roles—perfect for front-end and UX design.
 
 ---
 
 ## 📃 CV Creation
 
 ### 📄 Evidence
-I created a professional CV using a modern, clean design. It includes:
-- Personal profile
-- Education (CPUT, Web Development)
-- Skills
-- Projects (React Portfolio, SVG Scene, Housing Campaign)
-- Work Experience (Internship at DesignHub)
+I designed a professional CV using a clean layout that includes:
+
+- Personal profile and contact info
+- Education (CPUT – Web Development)
+- Technical skills (React, JavaScript, UI/UX)
+- Projects (React Portfolio, SVG Scene, Apply Point, Housing Campaign)
+- Soft skills and extracurriculars
 - References
 
-📎 [Link to my CV (PDF)](https://github.com/Eyemsham/digital-portfolio/blob/main/CV.pdf)
+📎 [Link to my CV (PDF)](CV.pdf)
 
 ### ✨ Reflection (STAR Technique)
 
-**S**: I needed to present my academic and personal achievements professionally.
-
-**T**: I had to design and write a CV that highlights my strengths as a junior web developer.
-
-**A**: I used a CV template, tailored my experiences, and ensured proper formatting and clarity.
-
-**R**: My CV now reflects my skills and is ready to be used for internship and job applications.
+**S**: I needed to prepare a professional CV to apply for internships and jobs.  
+**T**: I had to ensure my CV accurately reflected my strengths and experience.  
+**A**: I created a custom design, structured my content, and refined it with feedback from peers and mentors.  
+**R**: I now have a ready-to-use CV that clearly communicates my value as a junior web developer and designer.
 
 ---
 
 ## 📤 CV Submission
 
 ### 📄 Evidence
-I submitted my CV on **22 May 2025** to our work readiness program mentor for review and feedback.
+I submitted my final CV to the work readiness coordinator on **22 May 2025** for evaluation and feedback as part of the program.
 
 ### ✨ Reflection (STAR Technique)
 
-**S**: I was preparing for internship applications and needed feedback on my CV.
+**S**: Submitting my CV was a key requirement for the work readiness program.  
+**T**: I had to meet the deadline and show growth in my presentation and documentation skills.  
+**A**: I submitted the final version of my CV after revisions, with special attention to layout and clarity.  
+**R**: I received positive feedback and now feel confident in presenting myself to potential employers.
 
-**T**: I had to ensure my CV met professional standards.
+---
 
-**A**: I submitted my CV early and requested specific feedback on layout, clarity, and technical content.
+## 🖼️ Project Previews
 
-**R**: The mentor gave positive feedback and suggested adding more detail to the project section, which I applied.
+### Apply Point – Job Application Platform
+![Apply Point Screenshot](apply-point.png)
+
+A practical website built to simulate the digital job application process. Created using React, with emphasis on accessibility and user flow.
+
+### Thematic Animated SVG Scene
+![SVG Scene](svg-scene.png)
+
+An interactive landscape built using native SVG markup and CSS animations. Included custom gradients, paths, and animated elements to meet course requirements.
+
+### Housing Crisis Visual Campaign
+![Housing Campaign](housing-campaign.png)
+
+A visual campaign designed to raise awareness of Cape Town’s housing crisis. Focused on impactful messaging, responsive layout, and clear visual hierarchy.
 
 ---
 
 ## ✅ Final Notes
 
-This portfolio represents my growth throughout the Work Readiness Training. I’ve learned more about myself, clarified my goals, and developed a stronger foundation for entering the professional tech world.
+This portfolio reflects my growth as a developer, designer, and young professional. Through this program, I’ve developed clarity, confidence, and real-world experience to support my career in the digital tech industry.
 
 Thank you for reviewing my portfolio!
+
