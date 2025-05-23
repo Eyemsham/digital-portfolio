@@ -102,10 +102,17 @@ A practical website built to simulate the digital job application process. Creat
 
 An interactive landscape built using native SVG markup and CSS animations. Included custom gradients, paths, and animated elements to meet course requirements.
 
-### Housing Crisis Visual Campaign
-![Housing Campaign](housing-campaign.png)
+### My Web Portfolio – Built with React
+![Web Portfolio Screenshot](react-portfolio.png)
 
-A visual campaign designed to raise awareness of Cape Town’s housing crisis. Focused on impactful messaging, responsive layout, and clear visual hierarchy.
+This is my personal web development portfolio built using **React**, showcasing my skills, projects, and contact information.  
+🌐 [View Live Portfolio](https://portfolio-eyemshams-projects.vercel.app)
+
+Key features:
+- Smooth routing with `React Router DOM`
+- Clean responsive design using `Bootstrap`
+- Modular component-based architecture
+- Custom sections for About, Skills, and Contact
 
 ---
 
