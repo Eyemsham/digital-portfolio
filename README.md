@@ -114,4 +114,3 @@ A visual campaign designed to raise awareness of Cape Town’s housing crisis. F
 This portfolio reflects my growth as a developer, designer, and young professional. Through this program, I’ve developed clarity, confidence, and real-world experience to support my career in the digital tech industry.
 
 Thank you for reviewing my portfolio!
-
