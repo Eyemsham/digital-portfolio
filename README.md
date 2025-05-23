@@ -71,7 +71,7 @@ I created a professional CV using a modern, clean design. It includes:
 - Work Experience (Internship at DesignHub)
 - References
 
-📎 [Link to my CV (PDF)](https://github.com/yourusername/portfolio/blob/main/SINESIPHO NGQOBE cv.docx)
+📎 [Link to my CV (PDF)](https://github.com/yourusername/portfolio/blob/main/Cv.pdf)
 
 ### ✨ Reflection (STAR Technique)
 
