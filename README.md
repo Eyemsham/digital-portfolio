@@ -92,10 +92,12 @@ I submitted my final CV to the work readiness coordinator on **22 May 2025** for
 
 ## 🖼️ Project Previews
 
-### Apply Point – Job Application Platform
-![Apply Point Screenshot](apply-point.png)
+### MASEKO CAPETOWN – A project for my first client
+![Maseko Capetown Screenshot](Maseko-CPT.png)
 
-A practical website built to simulate the digital job application process. Created using React, with emphasis on accessibility and user flow.
+A sleek and practical website crafted for a designer/tailor to showcase custom garments and services. Built using HTML, CSS, and JavaScript, with a strong focus on clean design, accessibility, and smooth user interaction.
+
+🌐 [View Live Website](https://projects-seven-flax.vercel.app/)
 
 ### Thematic Animated SVG Scene
 ![SVG Scene](svg-scene.png)
