@@ -93,7 +93,7 @@ I submitted my final CV to the work readiness coordinator on **22 May 2025** for
 ## 🖼️ Project Previews
 
 ### MASEKO CAPETOWN – A project for my first client
-![Maseko Capetown Screenshot](Maseko-CPT.png)
+![Maseko Capetown Screenshot](Maseko-CP.png)
 
 A sleek and practical website crafted for a designer/tailor to showcase custom garments and services. Built using HTML, CSS, and JavaScript, with a strong focus on clean design, accessibility, and smooth user interaction.
 
