@@ -90,6 +90,69 @@ I submitted my final CV to the work readiness coordinator on **22 May 2025** for
 
 ---
 
+## 🗣️ Interview Skills
+
+### 📄 Evidence
+On **10 October 2025**, I participated in an **interview skills workshop** where we practiced answering common questions such as *“Tell me about yourself”* and *“Describe a challenge you’ve faced.”*  
+The session focused on using the **STAR method** to give structured and impactful answers.
+
+### ✨ Reflection (STAR Technique)
+
+**S**: I was nervous about how to structure my answers during interviews.  
+**T**: I needed to improve my ability to communicate confidently and professionally.  
+**A**: I learned to apply the STAR method and practiced responding to various interview questions in a clear, concise manner.  
+**R**: I gained confidence and improved my communication skills, enabling me to present my experiences effectively during interviews.
+
+---
+
+## 🎤 Mock Interview
+
+### 📄 Evidence
+On **14 October 2025**, I completed a **mock interview session** as part of the Work Readiness Training program.  
+The interview was recorded to evaluate my **communication, confidence, and presentation**. I practiced introducing myself, discussing my projects, and answering situational questions.
+
+🎬 [Watch Mock Interview Video](https://your-video-link-here)  
+*(Upload your video to Google Drive, YouTube (unlisted), or OneDrive, then paste the shareable link here.)*
+
+### ✨ Reflection (STAR Technique)
+
+**S**: I wanted to experience what a real interview feels like and evaluate how I present myself.  
+**T**: My goal was to identify strengths and areas for improvement in my communication and professionalism.  
+**A**: I prepared by reviewing my CV, rehearsing key questions, and participating in a recorded mock interview session. Afterward, I reviewed the video and applied feedback on tone, clarity, and body language.  
+**R**: I gained valuable insight into my communication style and improved my posture, tone, and confidence when speaking — preparing me for real-world interviews.
+
+---
+
+## 🌐 Professional Networking
+
+### 📄 Evidence
+I actively use **GitHub** and **LinkedIn** to showcase my web development work and connect with industry professionals.  
+My GitHub portfolio includes projects such as **Apply Point**, **Maseko Capetown**, and **React Portfolio**, which highlight my growth and consistency as a developer.
+
+### ✨ Reflection (STAR Technique)
+
+**S**: I needed to establish a professional online presence and connect with people in my field.  
+**T**: My goal was to expand my network and showcase my skills through my digital platforms.  
+**A**: I optimized my GitHub profile, updated my LinkedIn with projects, and began engaging with other developers.  
+**R**: I built a small professional network, received positive engagement on my projects, and strengthened my visibility in the tech community.
+
+---
+
+## 💼 Workplace Etiquette
+
+### 📄 Evidence
+During the **Work Readiness Training**, I learned the importance of professionalism, including **time management, teamwork, communication, and respect**.  
+These lessons were reinforced through class projects and discussions about real workplace scenarios.
+
+### ✨ Reflection (STAR Technique)
+
+**S**: I wanted to understand how to act professionally in a workplace environment.  
+**T**: I needed to learn proper communication, teamwork, and professional conduct.  
+**A**: I applied workplace etiquette principles in group assignments and presentations, focusing on punctuality, respect, and collaboration.  
+**R**: I now understand how professional behaviour contributes to productivity, respect, and a positive work culture.
+
+---
+
 ## 🖼️ Project Previews
 
 ### MASEKO CAPETOWN – A project for my first client
@@ -115,6 +178,13 @@ Key features:
 - Clean responsive design using `Bootstrap`
 - Modular component-based architecture
 - Custom sections for About, Skills, and Contact
+
+---
+
+## ✅ Final Notes
+
+This updated portfolio demonstrates my readiness for the professional world — not just technically, but also in communication, teamwork, and professionalism.  
+Each section shows my growth through evidence and reflection, aligning perfectly with the **Work Readiness Training Program** outcomes.
 
 ---
 
