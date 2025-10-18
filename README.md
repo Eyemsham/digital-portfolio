@@ -108,11 +108,11 @@ The session focused on using the **STAR method** to give structured and impactfu
 ## 🎤 Mock Interview
 
 ### 📄 Evidence
-On **14 October 2025**, I completed a **mock interview session** as part of the Work Readiness Training program.  
+On **21 March 2025**, I completed a **mock interview session** as part of the Work Readiness Training program.  
 The interview was recorded to evaluate my **communication, confidence, and presentation**. I practiced introducing myself, discussing my projects, and answering situational questions.
 
 🎬 [Watch Mock Interview Video](https://your-video-link-here)  
-*(Upload your video to Google Drive, YouTube (unlisted), or OneDrive, then paste the shareable link here.)*
+*(https://drive.google.com/file/d/1hL2EQ7oFwD0LRl6ys4pj1gV1UWKis5VF/view?usp=sharing)*
 
 ### ✨ Reflection (STAR Technique)
 
