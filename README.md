@@ -23,7 +23,7 @@ On **15 May 2025**, I attended a career counselling session through CPUT’s Car
 ### 📄 Evidence
 I specialize in web technologies and design, including:
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Wordpress
 - React & Bootstrap
 - Responsive Web Design
 - UI/UX tools like Figma
