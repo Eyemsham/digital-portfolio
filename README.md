@@ -1,14 +1,14 @@
-# LunoDev
+# Sinesipho Ngqobe
 
-A minimal personal branding and portfolio site built under my **LunoDev** brand.
+Web Designer & UI/UX Designer based in Cape Town, South Africa.
 
-I create clean, responsive, and user-focused websites with a strong focus on web design, UI/UX design, layout, usability, and modern visual design.
+I create clean, responsive, and user-focused websites with a strong focus on layout, usability, and modern visual design.
 
-## About
+## About Me
 
-LunoDev is my personal web design brand. The goal is to present my work in a clean, professional, and modern way while showing my skills in designing and building simple digital experiences.
+I am a web designer and UI/UX designer with a background in web development. I enjoy creating simple, modern websites that are easy to use and visually clean.
 
-The site is designed to attract young entrepreneurs, creatives, and small businesses in Cape Town who need clean, user-friendly websites.
+My goal is to grow into a well-rounded designer who can take an idea from concept to final website.
 
 ## Services
 
@@ -16,7 +16,7 @@ The site is designed to attract young entrepreneurs, creatives, and small busine
 Modern, responsive websites designed with clean layouts, clear structure, and strong visual presentation.
 
 ### UI/UX Design
-Simple and user-focused interfaces that are easy to use, easy to navigate, and built around the user experience.
+Simple and user-focused interfaces that are easy to navigate and built around the user experience.
 
 ## Skills
 
@@ -42,10 +42,11 @@ Since the website is currently offline, I added a walkthrough video and screensh
 
 ## Portfolio
 
-Portfolio: (https://sinesipho-portfolio.netlify.app/)
+Portfolio: https://sinesipho-portfolio.netlify.app/
 
 ## Contact
 
-Email: Cliqsham@gmail.com  
+Email: cliqsham@gmail.com  
 Location: Cape Town, South Africa  
-LinkedIn: (https://www.linkedin.com/in/sinesipho-ngqobe-b8aab4287/)
+GitHub: @cliqsham  
+LinkedIn: https://www.linkedin.com/in/sinesipho-ngqobe-b8aab4287/
